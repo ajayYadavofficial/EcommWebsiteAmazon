@@ -1,4 +1,4 @@
-#Quick Look
+# Quick Look
 https://e-clone-app-1f29a.web.app/
 
 # Getting Started with Create React App
